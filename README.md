@@ -3,12 +3,10 @@
 A dynamic web application that calculates cash differences and displays breakdowns in both numerical and written formats, with denomination breakdowns. Features real-time calculations and error handling.
 
 <div align="center">
-  <img src="https://github.com/dibyendupaul-09/Projects/blob/7f9881ca8d8617f269d8960442e45a89f2d25ae8/Screenshot%202025-03-21%20162048.png" alt="Cash Calculator Demo" width="80%">
+  <img src="https://github.com/dibyendupaul-09/Projects/blob/05ac3353390be8b659604d91643d78a8221cb3e8/Screenshot%202025-03-21%20162850.png" alt="Cash Calculator Demo" width="80%">
   <br>
   <em>Cash Calculator Demo</em>
 </div>
-
-Cash Calculator Demo
 
 ## ✨ Features
 
